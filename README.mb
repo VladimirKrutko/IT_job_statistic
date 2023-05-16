@@ -1,10 +1,10 @@
-Goal of project
+# Goal of project
 Scarp data from web-site with IT job position to desision-making system
 
-Tasks:
-Get from web-sites https://justjoin.it/ (on start)
-Create pipline to download data from page dayli
-Mark data using ChatGPT model
-Created Database to save data
-Analyze data using statics method
-Create ML/AI model to predict best place for Junior specialist
+# Tasks:
+1. Get from web-sites https://justjoin.it/ (on start)
+2. Create pipline to download data from page dayli
+3. Mark data using ChatGPT model
+4. Created Database to save data
+5. Analyze data using statics method
+6. Create ML/AI model to predict best place for Junior specialist
