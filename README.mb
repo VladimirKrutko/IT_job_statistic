@@ -1,8 +1,8 @@
-## Goal of project
+##Goal of project
 
 Scarp data from web-site with IT job position to desision-making system
 
-# Tasks:
+#Tasks:
 1. Get from web-sites https://justjoin.it/ (on start)
 2. Create pipline to download data from page dayli
 3. Mark data using ChatGPT model
